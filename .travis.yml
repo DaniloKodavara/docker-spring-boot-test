@@ -1,7 +1,6 @@
 language: java
 jdk:
   - openjdk11ls
-  
 before_install:
   - sudo apt-get update
   - cd app/
